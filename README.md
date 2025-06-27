@@ -1,11 +1,15 @@
-![Python](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&color=3776AB)
-![Linux](https://img.shields.io/badge/System-Linux-informational?style=flat&logo=linux&color=FCC624)
-```css
-#makser { 
-  name: max; 
-  OS: Arch Linux; Ubuntu; 
-  display: boy;
-  color: black 
+![Python](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&color=7d7675)
+![Linux](https://img.shields.io/badge/System-Linux-informational?style=flat&logo=linux&color=4a4747)
+```python
+user = {
+"name": "Max",
+"gender": "Boy",
+"location": "Russia",
+"birthday": "26.02",
+"discord": "makserwhyy",
+"fav_game": "DDNet",
+"os": "Arch Linux",
+"language": ["Python", "Node.js", "C++"]
 }
 ```
 

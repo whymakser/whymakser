@@ -1,20 +1,15 @@
-![Python](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&color=7d7675)
-![Linux](https://img.shields.io/badge/System-Linux-informational?style=flat&logo=linux&color=4a4747)
-```python
-user = {
-"name": "Max",
-"gender": "Boy",
-"location": "Russia",
-"birthday": "26.02",
-"discord": "makserwhyy",
-"fav_game": "DDNet",
-"os": "Arch Linux",
-"language": ["Python", "Node.js", "C++"]
-}
-```
+# 💫 About Me:
+I'm Makser, default coder from Russia. Currently working on Forelka-userbot
 
 
-![whymakser's Stats](https://github-readme-stats.vercel.app/api?username=whymakser&theme=dark&show_icons=true&hide_border=false&count_private=false)
+# 💻 Tech Stack:
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white) ![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139) ![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=whymakser&theme=gruvbox&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=whymakser&theme=gruvbox&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=whymakser&theme=gruvbox&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
+---
+[![](https://visitcount.itsvg.in/api?id=whymakser&icon=3&color=2)](https://visitcount.itsvg.in)
 
-![whymakser's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=whymakser&theme=dark&show_icons=true&hide_border=false&layout=compact)
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
